@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently studied on SMPB Aya Sophia Islamic School
 - 🌱 I’m currently learning Artificial Intelligence & Machine Learning
-- 💬 Ask me about Python Programming Language
 
 - 📫 How to reach me:
 
