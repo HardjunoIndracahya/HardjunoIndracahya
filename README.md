@@ -5,5 +5,7 @@
 
 - 📫 How to reach me:
 
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <a href="https://www.linkedin.com/in/hardjunoindracahya/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&color=0077B5"></a>
 <a href="https://twitter.com/HardjunoIndrac1/"><img src="https://img.shields.io/twitter/follow/HardjunoIndrac1?style=social"></a>
