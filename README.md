@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Hardjuno Indracahya from Indonesia<br><br>- 🔭 I’m a Junior High School Student<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I like to read</p>
+<p align="left">I'm Hardjuno Indracahya from Indonesia<br><br>- 🔭 I’m a High School Student<br>- 📚 I'm currently learning Machine Learning<br>- ⚡ In my free time I like to read</p>
 
 ###
 
